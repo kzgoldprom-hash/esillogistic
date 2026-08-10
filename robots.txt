@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://logistik.arshavin-ivan-mail-ru.workers.dev/sitemap.xml
